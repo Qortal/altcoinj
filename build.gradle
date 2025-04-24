@@ -14,7 +14,7 @@ repositories {
 }
 
 dependencies {
-    compile 'org.bitcoinj:bitcoinj-core:0.15.6'
+    compile 'org.bitcoinj:bitcoinj-core:0.15.10'
 }
 
 sourceSets {
